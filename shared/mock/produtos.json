@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Milho",
+        "price": 40.00,
+        "category": "3"
+      },
+      {
+        "id": "2",
+        "name": "Arroz",
+        "price": 35.00,
+        "category": "1"
+      },
+      {
+        "id": "3",
+        "name": "Feijão",
+        "price": 55.00,
+        "category": "1"
+      },
+      {
+        "id": "4",
+        "name": "DDT",
+        "price": 55.00,
+        "category": "2"
+      },
+]
